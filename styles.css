@@ -144,6 +144,72 @@
         object-fit: cover;
     }
 
+    .calentadorDiv {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 20px;
+        padding: 30px 40px;
+        background-color: #CEFFDA;
+    }
+
+    .calentadorDiv a {
+        text-decoration: none;
+        font-size: 16px;
+        color: #464646;
+    }
+
+    .calentador {
+        width: 250px;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .biberonDiv {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 20px;
+        padding: 30px 40px;
+        background-color: #CEFFDA;
+    }
+
+    .biberonDiv a {
+        text-decoration: none;
+        font-size: 16px;
+        color: #464646;
+    }
+
+    .biberon {
+        width: 250px;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .extractorDiv {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 20px;
+        padding: 30px 40px;
+        background-color: #CEFFDA;
+    }
+
+    .extractorDiv a {
+        text-decoration: none;
+        font-size: 16px;
+        color: #464646;
+    }
+
+    .extractor {
+        width: 250px;
+        height: auto;
+        object-fit: cover;
+    }
+
     .footer {
         text-align: center;
         margin-top: 40px;
