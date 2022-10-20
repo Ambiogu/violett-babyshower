@@ -210,6 +210,138 @@
         object-fit: cover;
     }
 
+    .baneraDiv {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 20px;
+        padding: 30px 40px;
+        background-color: #CEFFDA;
+    }
+
+    .baneraDiv a {
+        text-decoration: none;
+        font-size: 16px;
+        color: #464646;
+    }
+
+    .banera {
+        width: 250px;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .cortaunasDiv {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 20px;
+        padding: 30px 40px;
+        background-color: #CEFFDA;
+    }
+
+    .cortaunasDiv a {
+        text-decoration: none;
+        font-size: 16px;
+        color: #464646;
+    }
+
+    .cortaunas {
+        width: 250px;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .lamparaDiv {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 20px;
+        padding: 30px 40px;
+        background-color: #CEFFDA;
+    }
+
+    .lamparaDiv a {
+        text-decoration: none;
+        font-size: 16px;
+        color: #464646;
+    }
+
+    .lampara {
+        width: 250px;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .canguroDiv {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 20px;
+        padding: 30px 40px;
+        background-color: #CEFFDA;
+    }
+
+    .canguroDiv a {
+        text-decoration: none;
+        font-size: 16px;
+        color: #464646;
+    }
+
+    .canguro {
+        width: 250px;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .gimnasioDiv {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 20px;
+        padding: 30px 40px;
+        background-color: #CEFFDA;
+    }
+
+    .gimnasioDiv a {
+        text-decoration: none;
+        font-size: 16px;
+        color: #464646;
+    }
+
+    .gimnasio {
+        width: 250px;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .camaraDiv {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 20px;
+        padding: 30px 40px;
+        background-color: #CEFFDA;
+    }
+
+    .camaraDiv a {
+        text-decoration: none;
+        font-size: 16px;
+        color: #464646;
+    }
+
+    .camara {
+        width: 250px;
+        height: auto;
+        object-fit: cover;
+    }
+
     .footer {
         text-align: center;
         margin-top: 40px;
